@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto contruído no evento Next Level Week da RocketSeat.
+Projeto construído no evento Next Level Week da RocketSeat.
 
 [Clique aqui para acessar](https://matheuscarlosf.github.io/NLW/)
 
